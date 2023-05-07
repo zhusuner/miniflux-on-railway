@@ -1,1 +1,1 @@
-FROM docker.io/miniflux/miniflux:2.0.43
+FROM docker.io/miniflux/miniflux:2.0.44
