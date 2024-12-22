@@ -1,1 +1,1 @@
-FROM docker.io/miniflux/miniflux:2.0.50
+FROM docker.io/youshandefeiyang/allinone
